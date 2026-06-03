@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Mono&display=swap');
+
+:root {
+  --font-heading: 'DM Serif Display', serif;
+  --font-body: 'DM Mono', monospace;
+  --color-dark: #1a1a1a;
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--color-dark);
+}
+
+h1, h2, h3 {
+  font-family: var(--font-heading);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@700&display=swap');
+
+.brand-logo {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.6rem;
+  font-weight: 700;
+}
+
+.nav-link:hover {
+  background-color: rgba(0,0,0,0.05);
+  border-radius: 4px;
+}
+.home-section {
+  min-height: 100vh;
+  background-color: #E29578;
+  padding: 60px 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-section {
+  min-height: 100vh;
+  background-color: #ffddd2;
+  padding: 60px 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.skills-section {
+  min-height: 100vh;
+  background-color: #edf6f9;
+  padding: 60px 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.projects-section {
+  min-height: 100vh;
+  background-color: #83C5BE;
+  padding: 60px 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.contact-section {
+  color: #fff;
+  min-height: 100vh;
+  background-color: #006D77;
+  padding: 60px 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+
+}
