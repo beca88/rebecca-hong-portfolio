@@ -7,7 +7,7 @@ function About() {
             <div className="container">
                 <div className="row align-items-center">
                     <div className="col-md-6">
-                        <h1 className="display-4">About Me</h1>
+                        <h1 className="display-4 mb-4">About Me</h1>
 
                         <p>Hello! I'm originally from China and have been living in New Zealand since 2015.</p>
 

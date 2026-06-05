@@ -12,7 +12,7 @@ function Home() {
                 <div className="row align-items-center justify-content-center">
                     <div className="col-md-5">
                         <h1 className="display-4">Hi, I'm Rebecca Hong!</h1>
-                        <p className="lead">A passionate web developer with a knack for creating engaging and user-friendly websites. With a love for coding, I bring creativity and technical expertise to every project I work on.</p>
+                        <p className="lead">A passionate web developer with a knack for creating engaging and user-friendly websites/apps. With a love for coding, I bring creativity and technical expertise to every project I work on.</p>
                         <Link to="/projects" className="btn btn-dark me-2">My Work</Link>
                         <Link to="/contact" className="btn btn-outline-dark">Contact Me</Link>
                     </div>
