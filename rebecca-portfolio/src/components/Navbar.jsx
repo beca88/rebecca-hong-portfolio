@@ -16,7 +16,7 @@ function Navbar() {
 
     return (
 
-        <nav className="navbar navbar-expand-md">
+        <nav className="navbar navbar-expand-md sticky-top shadow-sm">
             <div className="container">
 
                 <Link to="/" className="navbar-brand brand-logo">REBECCA HONG</Link>

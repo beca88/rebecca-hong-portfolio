@@ -76,3 +76,11 @@ h1, h2, h3 {
   justify-content: flex-start;
 
 }
+
+footer a {
+  color: inherit;
+}
+
+footer a:hover {
+  color: #3f4246;
+}

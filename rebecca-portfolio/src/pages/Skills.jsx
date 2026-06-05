@@ -18,7 +18,7 @@ function Skills() {
                         <p>Throughout my studies at SIT, I have been learning and working
                             with a range of web technologies. Here are some of the tools and
                             languages I have picked up along the way.</p>
-                       
+
                     </div>
                 </div>
 
@@ -29,7 +29,7 @@ function Skills() {
                             <p className="mt-2">{skill.name}</p>
                         </div>
                     ))}
-                     <strong>This website is built with React and uses modern web development practices. </strong>
+                    <strong>This website is built with React and uses modern web development practices. </strong>
                 </div>
 
             </div>
