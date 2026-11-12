@@ -1,2 +1,7 @@
 node_modules
 .vercel
+
+.git-backup/
+.env
+.env.*
+!.env.example
